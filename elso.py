@@ -8,3 +8,4 @@ if szam > 3:
 elif szam < 3:
     print("kisebb")
     
+print("2023.09.16")
